@@ -1,21 +1,18 @@
-# frontend
+# Локальный чат
+Приложение реализует чат между вкладок одного браузера
 
-## Project setup
+
+## Установка зависимостей
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск стенда для разработки
 ```
 npm run dev
 ```
 
-### Compiles and minifies for production
+### Сборка проекта
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
